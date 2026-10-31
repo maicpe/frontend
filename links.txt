@@ -1,0 +1,2 @@
+FRONTEND https://hackathon-copa-panama-2026-42-frontend.azurewebsites.net/information
+BACKEND https://hackathon-copa-panama-2026-42-api.azurewebsites.net/
