@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/environments/environment.prod.ts","./src/environments/environment.ts","./src/telemetry/app-insights.ts"],"version":"5.9.3"}
